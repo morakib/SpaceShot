@@ -35,3 +35,9 @@ A thrilling two-player space shooter game built with Python and Pygame!
    ```bash
    git clone https://github.com/morakib/SpaceShot.git
    cd SpaceShot
+## Install dependencies:
+   ```bash
+   pip install pygame
+   python main.py
+
+
