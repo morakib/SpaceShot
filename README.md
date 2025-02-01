@@ -4,11 +4,11 @@ A thrilling two-player space shooter game built with Python and Pygame!
 
 [![GitHub stars](https://img.shields.io/github/stars/morakib/SpaceShot?style=social)](https://github.com/morakib/SpaceShot)
 
-## Place you and your friend's name 
+##           Place you and your friend's name 
 ![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss1.jpg) 
 ![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss2.jpg) 
 
-## Put a winning score (like 5,10 etc)
+##         Put a winning score (like 5,10 etc)
 ![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss3.jpg) 
 
 ## Landing on game 
