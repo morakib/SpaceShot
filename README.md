@@ -3,33 +3,33 @@
 A thrilling two-player space shooter game built with Python and Pygame!
 
 [![GitHub stars](https://img.shields.io/github/stars/morakib/SpaceShot?style=social)](https://github.com/morakib/SpaceShot)
+[![License](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 
-##           Place you and your friend's name 
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss1.jpg) 
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss2.jpg) 
+## Game Flow 🎮
 
-##         Put a winning score (like 5,10 etc)
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss3.jpg) 
+### 1. Player Setup
+| Player Name Input | Winning Score Setup |
+|-------------------|---------------------|
+| ![Name Input](https://github.com/morakib/SpaceShot/blob/main/assets/ss1.jpg) | ![Score Setup](https://github.com/morakib/SpaceShot/blob/main/assets/ss3.jpg) |
 
-## Landing on game 
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss4.jpg)
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss5.jpg)
+### 2. Gameplay
+| Battle View | In-Action |
+|-------------|-----------|
+| ![Game Start](https://github.com/morakib/SpaceShot/blob/main/assets/ss4.jpg) | ![Gameplay](https://github.com/morakib/SpaceShot/blob/main/assets/ss5.jpg) |
 
+### 3. Victory Screen
+![Winner Declaration](https://github.com/morakib/SpaceShot/blob/main/assets/ss6.jpg)
 
-## Winner declaration
-![Game Screenshot](https://github.com/morakib/SpaceShot/blob/main/assets/ss6.jpg) 
-
- 
 ## Features ✨
-- Dual-player combat mode
-- Custom player names
-- Adjustable winning score
-- Real-time scoring system
-- Immersive sound effects
-- Responsive keyboard controls
-- Collision detection system
+- 🕹️ Dual-player combat mode (WASD vs Arrow Keys)
+- 📛 Custom player names input
+- 🏆 Adjustable winning score (1-20)
+- 📊 Real-time scoring system
+- 🔊 Immersive sound effects
+- ⚡ Responsive keyboard controls
+- 💥 Advanced collision detection
 
-## Installation ⚙️
+## Installation & Setup ⚙️
 
 1. **Clone repository**:
    ```bash
